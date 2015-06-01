@@ -1,6 +1,6 @@
 Package.describe({
     documentation: 'README.md',
-    git: '',
+    git: 'https://github.com/adslaton/meteor-errors.git',
     name: 'adslaton:errors',
     summary: 'A pattern to display application errors to the user',
     version: '0.0.1'
